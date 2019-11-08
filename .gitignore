@@ -1,0 +1,5 @@
+TestProject_Transom_2/env/**
+*.pyc
+TestProject_Transom_2/obj/**
+TestProject_Transom_2/TestProject_Transom_2.pyproj.user
+.vs/
