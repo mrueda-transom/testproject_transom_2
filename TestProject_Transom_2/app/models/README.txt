@@ -1,4 +1,4 @@
-Aquí van sus modelos: Carro y avión ambos son un Vehículo.
+Aquï¿½ van sus modelos: Carro y aviï¿½n ambos son un Vehï¿½culo.
 
 Los campos que deben de tener son los mismos para los dos:
 
